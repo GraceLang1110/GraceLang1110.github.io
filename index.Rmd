@@ -1,0 +1,12 @@
+---
+title: "Index"
+author: "Grace Lang"
+date: "8/1/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is Grace Lang's website. 
